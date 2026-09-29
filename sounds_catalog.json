@@ -1,0 +1,810 @@
+[
+  {
+    "id": "alarm",
+    "name": "زەنگی بێدارکەرەوە (Focus Alarm)",
+    "category": "ئامێر و کەلوپەل 🛠️📻",
+    "fileName": "alarm.mp3",
+    "sizeText": "0.1 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/alarm.mp3"
+  },
+  {
+    "id": "beehive",
+    "name": "کۆمەڵە هەنگ (Beehive)",
+    "category": "باڵندە و ئاژەڵەکان 🦅🐾",
+    "fileName": "beehive.mp3",
+    "sizeText": "0.9 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/beehive.mp3"
+  },
+  {
+    "id": "birds",
+    "name": "چریکەی باڵندەکانی بەهار (Spring Birds)",
+    "category": "باڵندە و ئاژەڵەکان 🦅🐾",
+    "fileName": "birds.mp3",
+    "sizeText": "2.0 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/birds.mp3"
+  },
+  {
+    "id": "cat_purring",
+    "name": "دەنگی پشیلە (Cat Purring)",
+    "category": "باڵندە و ئاژەڵەکان 🦅🐾",
+    "fileName": "cat-purring.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/cat-purring.mp3"
+  },
+  {
+    "id": "chickens",
+    "name": "مریشک و مریشکەکان (Chickens)",
+    "category": "باڵندە و ئاژەڵەکان 🦅🐾",
+    "fileName": "chickens.mp3",
+    "sizeText": "4.8 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/chickens.mp3"
+  },
+  {
+    "id": "cows",
+    "name": "مانگاکانی کێڵگە (Pasture Cows)",
+    "category": "باڵندە و ئاژەڵەکان 🦅🐾",
+    "fileName": "cows.mp3",
+    "sizeText": "0.5 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/cows.mp3"
+  },
+  {
+    "id": "crickets",
+    "name": "سیسرکی شەوانە (Night Crickets)",
+    "category": "باڵندە و ئاژەڵەکان 🦅🐾",
+    "fileName": "crickets.mp3",
+    "sizeText": "2.7 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/crickets.mp3"
+  },
+  {
+    "id": "crows",
+    "name": "قەلەڕەشی دارستان (Forest Crows)",
+    "category": "باڵندە و ئاژەڵەکان 🦅🐾",
+    "fileName": "crows.mp3",
+    "sizeText": "0.7 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/crows.mp3"
+  },
+  {
+    "id": "dog_barking",
+    "name": "سەگی کێڵگە (Dog Barking)",
+    "category": "باڵندە و ئاژەڵەکان 🦅🐾",
+    "fileName": "dog-barking.mp3",
+    "sizeText": "0.2 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/dog-barking.mp3"
+  },
+  {
+    "id": "frog",
+    "name": "بۆقی کانی و گۆم (Lake Frogs)",
+    "category": "باڵندە و ئاژەڵەکان 🦅🐾",
+    "fileName": "frog.mp3",
+    "sizeText": "1.5 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/frog.mp3"
+  },
+  {
+    "id": "horse_gallop",
+    "name": "تاودانی ئەسپ (Horse Gallop)",
+    "category": "باڵندە و ئاژەڵەکان 🦅🐾",
+    "fileName": "horse-gallop.mp3",
+    "sizeText": "0.2 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/horse-gallop.mp3"
+  },
+  {
+    "id": "owl",
+    "name": "کوندەپەپۆی شەو (Night Owl)",
+    "category": "باڵندە و ئاژەڵەکان 🦅🐾",
+    "fileName": "owl.mp3",
+    "sizeText": "0.1 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/owl.mp3"
+  },
+  {
+    "id": "seagulls",
+    "name": "مەلی دەریا و نەورەس (Seagulls)",
+    "category": "باڵندە و ئاژەڵەکان 🦅🐾",
+    "fileName": "seagulls.mp3",
+    "sizeText": "0.5 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/seagulls.mp3"
+  },
+  {
+    "id": "sheep",
+    "name": "مەڕوماڵاتی گوند (Meadow Sheep)",
+    "category": "باڵندە و ئاژەڵەکان 🦅🐾",
+    "fileName": "sheep.mp3",
+    "sizeText": "0.7 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/sheep.mp3"
+  },
+  {
+    "id": "whale",
+    "name": "نەهەنگی ناو زەریا (Ocean Whale)",
+    "category": "باڵندە و ئاژەڵەکان 🦅🐾",
+    "fileName": "whale.mp3",
+    "sizeText": "0.3 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/whale.mp3"
+  },
+  {
+    "id": "wolf",
+    "name": "گورگی کێوی (Wild Wolf)",
+    "category": "باڵندە و ئاژەڵەکان 🦅🐾",
+    "fileName": "wolf.mp3",
+    "sizeText": "0.6 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/wolf.mp3"
+  },
+  {
+    "id": "woodpecker",
+    "name": "دارکوتکی دارستان (Woodpecker)",
+    "category": "باڵندە و ئاژەڵەکان 🦅🐾",
+    "fileName": "woodpecker.mp3",
+    "sizeText": "0.2 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/woodpecker.mp3"
+  },
+  {
+    "id": "campfire",
+    "name": "ئاگری کەمپ و دار (Campfire)",
+    "category": "سروشت و ئاو 🌲💧",
+    "fileName": "campfire.mp3",
+    "sizeText": "3.1 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/campfire.mp3"
+  },
+  {
+    "id": "droplets",
+    "name": "دڵۆپەی ئاو لە ئەشکەوت (Cave Droplets)",
+    "category": "سروشت و ئاو 🌲💧",
+    "fileName": "droplets.mp3",
+    "sizeText": "0.8 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/droplets.mp3"
+  },
+  {
+    "id": "howling_wind",
+    "name": "ناڵەی بای بەهێز (Howling Wind)",
+    "category": "سروشت و ئاو 🌲💧",
+    "fileName": "howling-wind.mp3",
+    "sizeText": "0.5 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/howling-wind.mp3"
+  },
+  {
+    "id": "jungle",
+    "name": "دارستانی چڕی کەمەرەیی (Deep Jungle)",
+    "category": "سروشت و ئاو 🌲💧",
+    "fileName": "jungle.mp3",
+    "sizeText": "3.9 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/jungle.mp3"
+  },
+  {
+    "id": "river",
+    "name": "شڵپەی چەم و ڕووبار (Flowing River)",
+    "category": "سروشت و ئاو 🌲💧",
+    "fileName": "river.mp3",
+    "sizeText": "3.7 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/river.mp3"
+  },
+  {
+    "id": "walk_in_snow",
+    "name": "پێنان بە بەفری نەرمدا (Walk in Snow)",
+    "category": "سروشت و ئاو 🌲💧",
+    "fileName": "walk-in-snow.mp3",
+    "sizeText": "0.9 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/walk-in-snow.mp3"
+  },
+  {
+    "id": "walk_on_gravel",
+    "name": "ڕێکردن بەسەر بەردڕێژدا (Walk on Gravel)",
+    "category": "سروشت و ئاو 🌲💧",
+    "fileName": "walk-on-gravel.mp3",
+    "sizeText": "1.1 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/walk-on-gravel.mp3"
+  },
+  {
+    "id": "walk_on_leaves",
+    "name": "پێنان بە گەڵای پاییزدا (Walk on Autumn Leaves)",
+    "category": "سروشت و ئاو 🌲💧",
+    "fileName": "walk-on-leaves.mp3",
+    "sizeText": "0.3 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/walk-on-leaves.mp3"
+  },
+  {
+    "id": "waterfall",
+    "name": "تاڤگەی شاخ (Mountain Waterfall)",
+    "category": "سروشت و ئاو 🌲💧",
+    "fileName": "waterfall.mp3",
+    "sizeText": "0.5 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/waterfall.mp3"
+  },
+  {
+    "id": "waves",
+    "name": "شەپۆلی کەناری دەریا (Ocean Waves)",
+    "category": "سروشت و ئاو 🌲💧",
+    "fileName": "waves.mp3",
+    "sizeText": "2.2 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/waves.mp3"
+  },
+  {
+    "id": "wind_in_trees",
+    "name": "شنەبای نێو درەختەکان (Wind in Trees)",
+    "category": "سروشت و ئاو 🌲💧",
+    "fileName": "wind-in-trees.mp3",
+    "sizeText": "1.2 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/wind-in-trees.mp3"
+  },
+  {
+    "id": "wind",
+    "name": "زریان و بای کێوەکان (Mountain Wind)",
+    "category": "سروشت و ئاو 🌲💧",
+    "fileName": "wind.mp3",
+    "sizeText": "1.5 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/wind.mp3"
+  },
+  {
+    "id": "airport",
+    "name": "فڕۆکەخانە (Airport Lounge)",
+    "category": "شوێنەکان و خوێندن 📚☕",
+    "fileName": "airport.mp3",
+    "sizeText": "4.3 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/airport.mp3"
+  },
+  {
+    "id": "cafe",
+    "name": "قاوەخانەی خوێندن (Study Café)",
+    "category": "شوێنەکان و خوێندن 📚☕",
+    "fileName": "cafe.mp3",
+    "sizeText": "1.7 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/cafe.mp3"
+  },
+  {
+    "id": "carousel",
+    "name": "یاریگای منداڵان (Carousel)",
+    "category": "شوێنەکان و خوێندن 📚☕",
+    "fileName": "carousel.mp3",
+    "sizeText": "2.2 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/carousel.mp3"
+  },
+  {
+    "id": "church",
+    "name": "زەنگی دێرینی کڵێسا (Church Bells)",
+    "category": "شوێنەکان و خوێندن 📚☕",
+    "fileName": "church.mp3",
+    "sizeText": "0.7 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/church.mp3"
+  },
+  {
+    "id": "construction_site",
+    "name": "کارگەی بیناسازی (Construction Site)",
+    "category": "شوێنەکان و خوێندن 📚☕",
+    "fileName": "construction-site.mp3",
+    "sizeText": "1.5 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/construction-site.mp3"
+  },
+  {
+    "id": "crowded_bar",
+    "name": "شوێنی قەرەباڵغ (Crowded Place)",
+    "category": "شوێنەکان و خوێندن 📚☕",
+    "fileName": "crowded-bar.mp3",
+    "sizeText": "0.8 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/crowded-bar.mp3"
+  },
+  {
+    "id": "laboratory",
+    "name": "تاقیگەی زانستی (Science Lab)",
+    "category": "شوێنەکان و خوێندن 📚☕",
+    "fileName": "laboratory.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/laboratory.mp3"
+  },
+  {
+    "id": "laundry_room",
+    "name": "ژووری جلشۆردن (Laundry Room)",
+    "category": "شوێنەکان و خوێندن 📚☕",
+    "fileName": "laundry-room.mp3",
+    "sizeText": "0.7 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/laundry-room.mp3"
+  },
+  {
+    "id": "library",
+    "name": "پەڕتووکخانەی بێدەنگ (Silent Library)",
+    "category": "شوێنەکان و خوێندن 📚☕",
+    "fileName": "library.mp3",
+    "sizeText": "3.6 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/library.mp3"
+  },
+  {
+    "id": "night_village",
+    "name": "گوندی ئارامی شەوانە (Night Village)",
+    "category": "شوێنەکان و خوێندن 📚☕",
+    "fileName": "night-village.mp3",
+    "sizeText": "2.2 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/night-village.mp3"
+  },
+  {
+    "id": "office",
+    "name": "نووسینگەی کارکردن (Modern Office)",
+    "category": "شوێنەکان و خوێندن 📚☕",
+    "fileName": "office.mp3",
+    "sizeText": "1.9 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/office.mp3"
+  },
+  {
+    "id": "restaurant",
+    "name": "چێشتخانەی هێمن (Restaurant Ambience)",
+    "category": "شوێنەکان و خوێندن 📚☕",
+    "fileName": "restaurant.mp3",
+    "sizeText": "3.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/restaurant.mp3"
+  },
+  {
+    "id": "subway_station",
+    "name": "وێستگەی شەمەندەفەری ژێرزەوی (Subway Station)",
+    "category": "شوێنەکان و خوێندن 📚☕",
+    "fileName": "subway-station.mp3",
+    "sizeText": "2.1 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/subway-station.mp3"
+  },
+  {
+    "id": "supermarket",
+    "name": "سوپەرمارکێت (Supermarket Ambience)",
+    "category": "شوێنەکان و خوێندن 📚☕",
+    "fileName": "supermarket.mp3",
+    "sizeText": "2.2 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/supermarket.mp3"
+  },
+  {
+    "id": "temple",
+    "name": "پەرستگای هێمن (Quiet Temple)",
+    "category": "شوێنەکان و خوێندن 📚☕",
+    "fileName": "temple.mp3",
+    "sizeText": "1.5 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/temple.mp3"
+  },
+  {
+    "id": "underwater",
+    "name": "ژێر دەریای قووڵ (Deep Underwater)",
+    "category": "شوێنەکان و خوێندن 📚☕",
+    "fileName": "underwater.mp3",
+    "sizeText": "0.5 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/underwater.mp3"
+  },
+  {
+    "id": "heavy_rain",
+    "name": "بارانی بەخوڕ و لێزمە (Heavy Rain)",
+    "category": "باران و کەشوهەوا 🌧️⚡",
+    "fileName": "heavy-rain.mp3",
+    "sizeText": "0.5 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/heavy-rain.mp3"
+  },
+  {
+    "id": "light_rain",
+    "name": "نمەنمی باران (Light Rain)",
+    "category": "باران و کەشوهەوا 🌧️⚡",
+    "fileName": "light-rain.mp3",
+    "sizeText": "3.6 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/light-rain.mp3"
+  },
+  {
+    "id": "rain_on_car_roof",
+    "name": "باران لەسەر سەقفی ئۆتۆمبێل (Rain on Car Roof)",
+    "category": "باران و کەشوهەوا 🌧️⚡",
+    "fileName": "rain-on-car-roof.mp3",
+    "sizeText": "0.2 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/rain-on-car-roof.mp3"
+  },
+  {
+    "id": "rain_on_leaves",
+    "name": "باران لەسەر گەڵاکان (Rain on Leaves)",
+    "category": "باران و کەشوهەوا 🌧️⚡",
+    "fileName": "rain-on-leaves.mp3",
+    "sizeText": "0.7 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/rain-on-leaves.mp3"
+  },
+  {
+    "id": "rain_on_tent",
+    "name": "باران لەسەر چادری شاخەوانی (Rain on Tent)",
+    "category": "باران و کەشوهەوا 🌧️⚡",
+    "fileName": "rain-on-tent.mp3",
+    "sizeText": "1.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/rain-on-tent.mp3"
+  },
+  {
+    "id": "rain_on_umbrella",
+    "name": "باران لەسەر چەتر (Rain on Umbrella)",
+    "category": "باران و کەشوهەوا 🌧️⚡",
+    "fileName": "rain-on-umbrella.mp3",
+    "sizeText": "1.0 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/rain-on-umbrella.mp3"
+  },
+  {
+    "id": "rain_on_window",
+    "name": "باران لەسەر پەنجەرەی ژوور (Rain on Window)",
+    "category": "باران و کەشوهەوا 🌧️⚡",
+    "fileName": "rain-on-window.mp3",
+    "sizeText": "0.8 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/rain-on-window.mp3"
+  },
+  {
+    "id": "thunder",
+    "name": "هەورەتریشقەی شەوانە (Thunderstorm)",
+    "category": "باران و کەشوهەوا 🌧️⚡",
+    "fileName": "thunder.mp3",
+    "sizeText": "2.1 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/thunder.mp3"
+  },
+  {
+    "id": "boiling_water",
+    "name": "کوڵانی ئاوی چا (Boiling Kettle)",
+    "category": "ئامێر و کەلوپەل 🛠️📻",
+    "fileName": "boiling-water.mp3",
+    "sizeText": "0.5 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/boiling-water.mp3"
+  },
+  {
+    "id": "bubbles",
+    "name": "بڵقی ئاو (Water Bubbles)",
+    "category": "ئامێر و کەلوپەل 🛠️📻",
+    "fileName": "bubbles.mp3",
+    "sizeText": "0.1 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/bubbles.mp3"
+  },
+  {
+    "id": "ceiling_fan",
+    "name": "پەروانەی سەقف (Ceiling Fan)",
+    "category": "ئامێر و کەلوپەل 🛠️📻",
+    "fileName": "ceiling-fan.mp3",
+    "sizeText": "0.2 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/ceiling-fan.mp3"
+  },
+  {
+    "id": "clock",
+    "name": "تەقەتەقی کاتژمێری دیوار (Clock Ticking)",
+    "category": "ئامێر و کەلوپەل 🛠️📻",
+    "fileName": "clock.mp3",
+    "sizeText": "0.1 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/clock.mp3"
+  },
+  {
+    "id": "dryer",
+    "name": "وشککەرەوە (Clothes Dryer)",
+    "category": "ئامێر و کەلوپەل 🛠️📻",
+    "fileName": "dryer.mp3",
+    "sizeText": "0.1 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/dryer.mp3"
+  },
+  {
+    "id": "keyboard",
+    "name": "نووسین لەسەر کیبۆرد (Typing Keyboard)",
+    "category": "ئامێر و کەلوپەل 🛠️📻",
+    "fileName": "keyboard.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/keyboard.mp3"
+  },
+  {
+    "id": "morse_code",
+    "name": "کۆدی مۆرس (Morse Code)",
+    "category": "ئامێر و کەلوپەل 🛠️📻",
+    "fileName": "morse-code.mp3",
+    "sizeText": "0.2 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/morse-code.mp3"
+  },
+  {
+    "id": "paper",
+    "name": "هەڵدانەوەی لاپەڕەی پەڕتووک (Turning Book Pages)",
+    "category": "ئامێر و کەلوپەل 🛠️📻",
+    "fileName": "paper.mp3",
+    "sizeText": "0.1 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/paper.mp3"
+  },
+  {
+    "id": "singing_bowl",
+    "name": "قاپ و دەفەی تێڕامان (Singing Bowl)",
+    "category": "ئامێر و کەلوپەل 🛠️📻",
+    "fileName": "singing-bowl.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/singing-bowl.mp3"
+  },
+  {
+    "id": "slide_projector",
+    "name": "پڕۆجێکتەری فێرکاری (Slide Projector)",
+    "category": "ئامێر و کەلوپەل 🛠️📻",
+    "fileName": "slide-projector.mp3",
+    "sizeText": "1.8 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/slide-projector.mp3"
+  },
+  {
+    "id": "tuning_radio",
+    "name": "ڕێکخستنی شەپۆلی ڕادیۆ (Tuning Radio)",
+    "category": "ئامێر و کەلوپەل 🛠️📻",
+    "fileName": "tuning-radio.mp3",
+    "sizeText": "0.7 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/tuning-radio.mp3"
+  },
+  {
+    "id": "typewriter",
+    "name": "ئامێری چاپ و تایپی کۆن (Vintage Typewriter)",
+    "category": "ئامێر و کەلوپەل 🛠️📻",
+    "fileName": "typewriter.mp3",
+    "sizeText": "0.3 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/typewriter.mp3"
+  },
+  {
+    "id": "vinyl_effect",
+    "name": "دەنگی گرامافۆن و ڤینایل (Vinyl Record)",
+    "category": "ئامێر و کەلوپەل 🛠️📻",
+    "fileName": "vinyl-effect.mp3",
+    "sizeText": "1.5 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/vinyl-effect.mp3"
+  },
+  {
+    "id": "washing_machine",
+    "name": "مەکینەی جلشۆر (Washing Machine)",
+    "category": "ئامێر و کەلوپەل 🛠️📻",
+    "fileName": "washing-machine.mp3",
+    "sizeText": "0.2 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/washing-machine.mp3"
+  },
+  {
+    "id": "wind_chimes",
+    "name": "زەنگۆڵەی شلیقەی با (Wind Chimes)",
+    "category": "ئامێر و کەلوپەل 🛠️📻",
+    "fileName": "wind-chimes.mp3",
+    "sizeText": "2.2 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/wind-chimes.mp3"
+  },
+  {
+    "id": "windshield_wipers",
+    "name": "سڕەری جامی ئۆتۆمبێل (Windshield Wipers)",
+    "category": "ئامێر و کەلوپەل 🛠️📻",
+    "fileName": "windshield-wipers.mp3",
+    "sizeText": "0.2 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/windshield-wipers.mp3"
+  },
+  {
+    "id": "airplane",
+    "name": "ناو فڕۆکە لە ئاسمان (Inside Airplane Cabin)",
+    "category": "گواستنەوە و شار 🚗✈️",
+    "fileName": "airplane.mp3",
+    "sizeText": "0.8 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/airplane.mp3"
+  },
+  {
+    "id": "inside_train",
+    "name": "ناو گالیسکەی شەمەندەفەر (Inside a Train)",
+    "category": "گواستنەوە و شار 🚗✈️",
+    "fileName": "inside-a-train.mp3",
+    "sizeText": "1.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/inside-a-train.mp3"
+  },
+  {
+    "id": "rowing_boat",
+    "name": "بەلەمی سەوڵ لێدان (Rowing Boat)",
+    "category": "گواستنەوە و شار 🚗✈️",
+    "fileName": "rowing-boat.mp3",
+    "sizeText": "0.6 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/rowing-boat.mp3"
+  },
+  {
+    "id": "sailboat",
+    "name": "کەشتی و بەلەمی بایەوان (Sailboat)",
+    "category": "گواستنەوە و شار 🚗✈️",
+    "fileName": "sailboat.mp3",
+    "sizeText": "2.1 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/sailboat.mp3"
+  },
+  {
+    "id": "submarine",
+    "name": "ژێردەریایی سەربازی (Submarine)",
+    "category": "گواستنەوە و شار 🚗✈️",
+    "fileName": "submarine.mp3",
+    "sizeText": "0.7 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/submarine.mp3"
+  },
+  {
+    "id": "train",
+    "name": "شەمەندەفەری خێرا لەسەر هێڵ (Train on Tracks)",
+    "category": "گواستنەوە و شار 🚗✈️",
+    "fileName": "train.mp3",
+    "sizeText": "1.2 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/train.mp3"
+  },
+  {
+    "id": "ambulance_siren",
+    "name": "هۆڕنی هانا (Ambulance Siren)",
+    "category": "گواستنەوە و شار 🚗✈️",
+    "fileName": "ambulance-siren.mp3",
+    "sizeText": "0.3 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/ambulance-siren.mp3"
+  },
+  {
+    "id": "busy_street",
+    "name": "شەقامی قەرەباڵغی شار (Busy City Street)",
+    "category": "گواستنەوە و شار 🚗✈️",
+    "fileName": "busy-street.mp3",
+    "sizeText": "2.2 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/busy-street.mp3"
+  },
+  {
+    "id": "crowd",
+    "name": "کۆبوونەوەی هێمنی خەڵک (Gentle Crowd)",
+    "category": "گواستنەوە و شار 🚗✈️",
+    "fileName": "crowd.mp3",
+    "sizeText": "0.6 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/crowd.mp3"
+  },
+  {
+    "id": "fireworks",
+    "name": "یارییە ئاگرینەکان (Fireworks)",
+    "category": "گواستنەوە و شار 🚗✈️",
+    "fileName": "fireworks.mp3",
+    "sizeText": "0.6 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/fireworks.mp3"
+  },
+  {
+    "id": "highway",
+    "name": "هێڵی خێرای ئۆتۆبان (Highway Traffic)",
+    "category": "گواستنەوە و شار 🚗✈️",
+    "fileName": "highway.mp3",
+    "sizeText": "1.6 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/highway.mp3"
+  },
+  {
+    "id": "road",
+    "name": "ڕێگای گشتی (Open Road)",
+    "category": "گواستنەوە و شار 🚗✈️",
+    "fileName": "road.mp3",
+    "sizeText": "1.5 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/road.mp3"
+  },
+  {
+    "id": "traffic",
+    "name": "هاتوچۆی شاری گەورە (City Traffic)",
+    "category": "گواستنەوە و شار 🚗✈️",
+    "fileName": "traffic.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/traffic.mp3"
+  },
+  {
+    "id": "white_noise",
+    "name": "دەنگی سپی هێمنکەرەوە (Pure White Noise)",
+    "category": "دەنگە هێمنکەرەوەکان و تەرکیز 🧘✨",
+    "fileName": "white_noise.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/white_noise.mp3"
+  },
+  {
+    "id": "pink_noise",
+    "name": "دەنگی پەمەیی بۆ خوێندن (Smooth Pink Noise)",
+    "category": "دەنگە هێمنکەرەوەکان و تەرکیز 🧘✨",
+    "fileName": "pink_noise.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/pink_noise.mp3"
+  },
+  {
+    "id": "brown_noise",
+    "name": "دەنگی قاوەیی بۆ تەرکیزی قووڵ (Deep Brown Noise)",
+    "category": "دەنگە هێمنکەرەوەکان و تەرکیز 🧘✨",
+    "fileName": "brown_noise.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/brown_noise.mp3"
+  },
+  {
+    "id": "gamma_40hz",
+    "name": "شەپۆلی گاما ٤٠ هێرتز بۆ هۆشیاری (40Hz Gamma Focus)",
+    "category": "دەنگە هێمنکەرەوەکان و تەرکیز 🧘✨",
+    "fileName": "gamma_40hz.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/gamma_40hz.mp3"
+  },
+  {
+    "id": "alpha_10hz",
+    "name": "شەپۆلی ئەلفا بۆ خوێندنەوە و یادگە (10Hz Alpha Study)",
+    "category": "دەنگە هێمنکەرەوەکان و تەرکیز 🧘✨",
+    "fileName": "alpha_10hz.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/alpha_10hz.mp3"
+  },
+  {
+    "id": "theta_6hz",
+    "name": "شەپۆلی سیتا بۆ ئارامبوونەوە و داهێنان (6Hz Theta Flow)",
+    "category": "دەنگە هێمنکەرەوەکان و تەرکیز 🧘✨",
+    "fileName": "theta_6hz.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/theta_6hz.mp3"
+  },
+  {
+    "id": "solfeggio_528hz",
+    "name": "فریکوێنسی هێورکەرەوە (528Hz Solfeggio Peace)",
+    "category": "دەنگە هێمنکەرەوەکان و تەرکیز 🧘✨",
+    "fileName": "solfeggio_528hz.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/solfeggio_528hz.mp3"
+  },
+  {
+    "id": "solfeggio_432hz",
+    "name": "فریکوێنسی سروشتی (432Hz Miracle Tone)",
+    "category": "دەنگە هێمنکەرەوەکان و تەرکیز 🧘✨",
+    "fileName": "solfeggio_432hz.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/solfeggio_432hz.mp3"
+  },
+  {
+    "id": "zen_meditation",
+    "name": "تێڕامان و مێدیتەیشنی زێن (Zen Meditation Chime)",
+    "category": "دەنگە هێمنکەرەوەکان و تەرکیز 🧘✨",
+    "fileName": "zen_meditation.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/zen_meditation.mp3"
+  },
+  {
+    "id": "deep_breathe",
+    "name": "هەناسەدانی قووڵی هێمن (Deep Breathing Rhythm)",
+    "category": "دەنگە هێمنکەرەوەکان و تەرکیز 🧘✨",
+    "fileName": "deep_breathe.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/deep_breathe.mp3"
+  },
+  {
+    "id": "cosmic_drone",
+    "name": "دەنگی قووڵی گەردوون و کەشتی (Cosmic Deep Space)",
+    "category": "دەنگە هێمنکەرەوەکان و تەرکیز 🧘✨",
+    "fileName": "cosmic_drone.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/cosmic_drone.mp3"
+  },
+  {
+    "id": "tibetan_bell",
+    "name": "زەنگی پیرۆزی تیبتی (Tibetan Sacred Chime)",
+    "category": "دەنگە هێمنکەرەوەکان و تەرکیز 🧘✨",
+    "fileName": "tibetan_bell.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/tibetan_bell.mp3"
+  },
+  {
+    "id": "monk_chant",
+    "name": "ئاوازی ئارامی پەرستگا (Temple Harmonizer)",
+    "category": "دەنگە هێمنکەرەوەکان و تەرکیز 🧘✨",
+    "fileName": "monk_chant.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/monk_chant.mp3"
+  },
+  {
+    "id": "gentle_flute",
+    "name": "بلووری دارقەمیشی هێمن (Bamboo Native Flute)",
+    "category": "دەنگە هێمنکەرەوەکان و تەرکیز 🧘✨",
+    "fileName": "gentle_flute.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/gentle_flute.mp3"
+  },
+  {
+    "id": "peaceful_piano",
+    "name": "پیانۆی ئارامی خوێندن (Quiet Study Piano Chords)",
+    "category": "دەنگە هێمنکەرەوەکان و تەرکیز 🧘✨",
+    "fileName": "peaceful_piano.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/peaceful_piano.mp3"
+  },
+  {
+    "id": "desert_night",
+    "name": "شەوی بێدەنگی بیابان (Silent Desert Night)",
+    "category": "سروشت و ئاو 🌲💧",
+    "fileName": "desert_night.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/desert_night.mp3"
+  },
+  {
+    "id": "mountain_cabin",
+    "name": "کەپری شاخ لەگەڵ کڕێوە (Mountain Cabin Ambience)",
+    "category": "سروشت و ئاو 🌲💧",
+    "fileName": "mountain_cabin.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/mountain_cabin.mp3"
+  },
+  {
+    "id": "rain_and_piano",
+    "name": "باران لەگەڵ مێلۆدی هێمن (Rain with Ambient Piano)",
+    "category": "باران و کەشوهەوا 🌧️⚡",
+    "fileName": "rain_and_piano.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/rain_and_piano.mp3"
+  },
+  {
+    "id": "crystal_stream",
+    "name": "کانی و ئاوی کانیاو (Crystal Mountain Spring)",
+    "category": "سروشت و ئاو 🌲💧",
+    "fileName": "crystal_stream.mp3",
+    "sizeText": "0.4 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/shakirgoran/smart-study-buddy-sounds/main/crystal_stream.mp3"
+  }
+]
